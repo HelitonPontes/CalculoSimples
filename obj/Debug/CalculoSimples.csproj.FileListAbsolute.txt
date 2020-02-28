@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\CalculoSimples\obj\Debug\CalculoSimples.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\CalculoSimples\bin\Debug\CalculoSimples.exe.config
+C:\Users\Heliton\Source\Repos\CalculoSimples\bin\Debug\CalculoSimples.exe
+C:\Users\Heliton\Source\Repos\CalculoSimples\bin\Debug\CalculoSimples.pdb
+C:\Users\Heliton\Source\Repos\CalculoSimples\obj\Debug\CalculoSimples.exe
+C:\Users\Heliton\Source\Repos\CalculoSimples\obj\Debug\CalculoSimples.pdb
